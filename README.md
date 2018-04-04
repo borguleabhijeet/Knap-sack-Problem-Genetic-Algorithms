@@ -5,7 +5,7 @@ is report represents a 0-1 knapsack problem using Genetic Algorithms. The knapsa
 2) The second GA consists of the (pair-wise) strict tournament selection, 3-point crossover, and bit-wise mutation.
 
 In our problem we have given population size 100, crossover probability 0.90 and mutation probability 0.01. We have solved this problem by considering all the population. The GA consist of following steps:
-
+![alt_text](https://github.com/borguleabhijeet/Knap-sack-Problem-Genetic-Algorithms/blob/master/Gen1.png)
 1. Initialize population: Generate chromosomes
 A. Chromosomes size is equal to the items size 500. It encodes the problem as select as 1 and reject as 0 in binary form.
 B. The randomly selected chromosomes of size 500 are generated 100 times since we have population of 100.
