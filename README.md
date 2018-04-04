@@ -21,3 +21,4 @@ A. If the fitness of new population is greater than new old population we contin
 B. If a selected population exceeds the weight limit we set up the fitness to 0.
 7. Stop:
 A. We stop our iteration after the 100th iteration as store the best maximum fitness and average fitness to plot the graph.
+![alt_text](https://github.com/borguleabhijeet/Knap-sack-Problem-Genetic-Algorithms/blob/master/Gen.png)
